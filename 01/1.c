@@ -38,7 +38,7 @@ int main()
     }
     close(fd);
 
-    FILE* fp = fopen("1.in", "w");
+    FILE* fp = fopen("1.out", "w");
 
     p = 0;
     row = 1;
